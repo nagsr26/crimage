@@ -1,0 +1,13 @@
+<svg width="100" height="100" viewBox="0 0 100 100" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Identified program changes icon</title>
+<desc>A document with change marks examined by a magnifying glass, inside a rounded badge.</desc>
+<rect x="0" y="0" width="100" height="100" rx="20" fill="#EAF1FB" stroke="#2E6BE6" stroke-width="2"/>
+<rect x="23" y="20" width="44" height="56" rx="5" fill="#ffffff" stroke="#2E6BE6" stroke-width="2"/>
+<rect x="31" y="30" width="16" height="4" rx="2" fill="#2E6BE6"/>
+<rect x="31" y="40" width="28" height="3" rx="1.5" fill="#9DBBF0"/>
+<rect x="31" y="49" width="20" height="3" rx="1.5" fill="#F0A33C"/>
+<rect x="31" y="58" width="28" height="3" rx="1.5" fill="#9DBBF0"/>
+<rect x="31" y="67" width="14" height="3" rx="1.5" fill="#F0A33C"/>
+<circle cx="65" cy="70" r="16" fill="none" stroke="#1B47A8" stroke-width="4"/>
+<line x1="76" y1="81" x2="88" y2="93" stroke="#1B47A8" stroke-width="5" stroke-linecap="round"/>
+</svg>
